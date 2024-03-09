@@ -1,1 +1,1 @@
-# Question2Day01
+# Day01/Q2
